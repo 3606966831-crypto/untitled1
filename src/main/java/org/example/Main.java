@@ -8,6 +8,7 @@ public class   Main {
         // 查看 IntelliJ IDEA 建议如何修正。
         System.out.printf("Hello and ggwelcome!");
         System.out.printf("Hello and welcome1!");
+        System.out.printf("thtytrd!");
 
 
     }
